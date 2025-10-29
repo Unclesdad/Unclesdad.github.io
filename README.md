@@ -1,5 +1,3 @@
-# Unclesdad.github.io
-
 ## Welcome, welcome!
 Here is the central portal for my coding projects.
 
@@ -10,7 +8,7 @@ I also made contributions to the [2024 repository](https://github.com/SciBorgs/C
 ### [NeuroKairos](https://github.com/SjulsonLab/irig_unix_timecodes){:target="_blank"}
 A universal solution to a timing synchronization problem that neuroscience labs commonly face. 
 A Raspberry Pi, synchronized to GPS satellites with an M8T GNSS HAT, can be used to give time through NTP (as a chrony server) by acting as a time server on the local network. 
-Any Pi at the experimental site can be set up to also broadcast IRIG timecodes with sub-millisecond accuracy that any piece of equipment can record to combat desynchronization.
+Any Pi at the experimental site can be set up to also broadcast [IRIG timecodes](https://en.wikipedia.org/wiki/IRIG_timecode) with sub-millisecond accuracy that any piece of equipment can record to combat desynchronization.
 
 ### [Whiteboard Eraser](https://github.com/Unclesdad/whiteboard-eraser){:target="_blank"}
 The codebase for the whiteboard eraser. It includes the following:
