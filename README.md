@@ -24,7 +24,7 @@ I made the trained model into a discord bot so my friends could mess with it. Wo
 By the way, the inference+bot can be run on a regular RPi5 CPU (which is kinda crazy). Make sure to get an active cooler though, whoo boy. 
 
 ### [Mind-controlled drone](https://github.com/DoubleABattery08/EEG-EMG-Transceiver-Drone){:target="_blank"}
-An EEG-controlled drone I'm making with some friends. I helped set it up and gave my knowledge on Raspberry Pis, as well as contributing some ideas (like the cylindrical coordinates) and writing a bit to the repository myself. 
+An EEG-controlled drone I'm making with some friends. I helped set it up and gave my knowledge on Raspberry Pis, as well as contributing some ideas and writing a bit to the repository myself. 
 It uses a Mindwave Mobile to "read your mind" which it connects to via bluetooth, and then connects to the drone via wifi. 
 
 ### This isn't everything I've done! 
