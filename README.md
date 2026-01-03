@@ -4,6 +4,11 @@ Here is the central portal for my coding projects.
 ### [FRC1155 2025 Codebase](https://github.com/SciBorgs/Reefscape-2025){:target="_blank"}
 My [FRC Team's](https://github.com/SciBorgs){:target="_blank"} codebase for the 2025 FRC game, Reefscape. 
 I also made contributions to the [2024 repository](https://github.com/SciBorgs/Crescendo-2024){:target="_blank"}, with some alignment and general debugging, but it wasn't crazy significant.
+#### Here are some presentations that I've made for FRC:
+[Swerve Pathfinding](https://docs.google.com/presentation/d/1QczUmCJop8G5i8sVH1yKOm0PqT8U0wqAKmqQes3XYOY/edit?usp=sharing){:target="_blank"} (I presented this one at StuySplash and Hawk Talks, with both being FRC conferences.
+[What Is A PID?](https://docs.google.com/presentation/d/1qCm7dv6XjKzGRyRIVqLQrLQaavf256xnsWVpZa_8HIk/edit?usp=sharing){:target="_blank"}
+Both are very math heavy and oriented towards people who want to learn the intuition behind robotics algorithms.
+
 
 ### [NeuroKairos](https://github.com/SjulsonLab/irig_unix_timecodes){:target="_blank"}
 A universal solution to a timing synchronization problem that neuroscience labs commonly face. 
