@@ -9,7 +9,6 @@ I also made contributions to the [2024 repository](https://github.com/SciBorgs/C
 [What Is A PID?](https://docs.google.com/presentation/d/1qCm7dv6XjKzGRyRIVqLQrLQaavf256xnsWVpZa_8HIk/edit?usp=sharing){:target="_blank"}  
 Both are very math heavy and are oriented towards people who want to learn the mathematical intuition behind robotics algorithms.
 
-0
 ### [NeuroKairos](https://github.com/SjulsonLab/irig_unix_timecodes){:target="_blank"}
 A universal solution to a timing synchronization problem that neuroscience labs commonly face.  
 A Raspberry Pi, synchronized to GPS satellites with an NEO-M8T GNSS HAT, can be used to give time through NTP (as a chrony server) by acting as a time server on the local network. 
