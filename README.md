@@ -2,16 +2,16 @@
 Here is the central portal for my coding projects.
 
 ### [FRC1155 2025 Codebase](https://github.com/SciBorgs/Reefscape-2025){:target="_blank"}
-My [FRC Team's](https://github.com/SciBorgs){:target="_blank"} codebase for the 2025 FRC game, Reefscape. 
+My [FRC Team's](https://github.com/SciBorgs){:target="_blank"} codebase for the 2025 FRC game, Reefscape. Here, I implemented an object-avoidant algorithm using vector fields and added several automation commands in order to make driving as easy and automated as possible. I also worked on the arm and elevator mechanisms.
 I also made contributions to the [2024 repository](https://github.com/SciBorgs/Crescendo-2024){:target="_blank"}, with some alignment and general debugging, but it wasn't crazy significant.
 #### Here are some presentations that I've made for FRC:
-[Swerve Pathfinding](https://docs.google.com/presentation/d/1QczUmCJop8G5i8sVH1yKOm0PqT8U0wqAKmqQes3XYOY/edit?usp=sharing){:target="_blank"} (I presented this one at StuySplash and Hawk Talks, with both being FRC conferences.
-[What Is A PID?](https://docs.google.com/presentation/d/1qCm7dv6XjKzGRyRIVqLQrLQaavf256xnsWVpZa_8HIk/edit?usp=sharing){:target="_blank"}
-Both are very math heavy and oriented towards people who want to learn the intuition behind robotics algorithms.
+[Swerve Pathfinding](https://docs.google.com/presentation/d/1QczUmCJop8G5i8sVH1yKOm0PqT8U0wqAKmqQes3XYOY/edit?usp=sharing){:target="_blank"}: I presented this one at the FRC conferences StuySplash and Hawk Talks. This is the vector field pathfinding algorithm from before.  
+[What Is A PID?](https://docs.google.com/presentation/d/1qCm7dv6XjKzGRyRIVqLQrLQaavf256xnsWVpZa_8HIk/edit?usp=sharing){:target="_blank"}  
+Both are very math heavy and are oriented towards people who want to learn the mathematical intuition behind robotics algorithms.
 
-
+0
 ### [NeuroKairos](https://github.com/SjulsonLab/irig_unix_timecodes){:target="_blank"}
-A universal solution to a timing synchronization problem that neuroscience labs commonly face. 
+A universal solution to a timing synchronization problem that neuroscience labs commonly face.  
 A Raspberry Pi, synchronized to GPS satellites with an NEO-M8T GNSS HAT, can be used to give time through NTP (as a chrony server) by acting as a time server on the local network. 
 Any Pi at the experimental site can be set up to also broadcast [IRIG timecodes](https://en.wikipedia.org/wiki/IRIG_timecode){:target="_blank"} with sub-millisecond accuracy that any piece of equipment can record to combat desynchronization.
 
@@ -22,14 +22,14 @@ The codebase for the whiteboard eraser. It includes the following:
 3. the simple pathfinding algorithm the pi runs on. 
 
 ### [CharlieGPT](https://github.com/Unclesdad/CharlieGPT){:target="_blank"}
-A codebase to fine-tune a Large Language Model on your messages. 
-I fine-tuned it on mine, by using [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter){:target="_blank"} for discord messages, and requesting a copy of my data from Meta for Instagram messages.
+A codebase to fine-tune a Large Language Model on your messages.  
+I fine-tuned it on mine, by using [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter){:target="_blank"} for discord messages, and requesting a copy of my data from Meta for Instagram messages.  
 The codebase processes this data and then allows you to train a model on it. I used Qwen 2.5 3B, but hypothetically you can use whatever so long as you have enough computational power.
-I made the trained model into a discord bot so my friends could mess with it. Worth the 72 hours it took to train. I also gave it image generation because I felt like it, but I didn't trained that; I just used a pretrained model.
+I made the trained model into a discord bot so my friends could mess with it. Worth the 72 hours it took to train. I also gave it image generation because I felt like it, but I didn't train that—I just used a pretrained model.  
 By the way, the inference+bot can be run on a regular RPi5 CPU (which is kinda crazy). Make sure to get an active cooler though, whoo boy. 
 
 ### [Mind-controlled drone](https://github.com/DoubleABattery08/EEG-EMG-Transceiver-Drone){:target="_blank"}
-An EEG-controlled drone I'm making with some friends. I helped set it up and gave my knowledge on Raspberry Pis, as well as contributing some ideas and writing a bit to the repository myself. 
+An EEG-controlled drone I'm making with some friends. I helped set it up and gave my knowledge on Raspberry Pis, as well as contributing some ideas and writing a bit to the repository myself.  
 It uses a Mindwave Mobile to "read your mind" which it connects to via bluetooth, and then connects to the drone via wifi. 
 
 ### This isn't everything I've done! 
